@@ -4,9 +4,9 @@
 
 HTTPbis                                                  M. Thomson, Ed.
 Internet-Draft                                                   Mozilla
-Obsoletes: 7540 (if approved)                           21 December 2020
+Obsoletes: 7540 (if approved)                           22 December 2020
 Intended status: Standards Track                                        
-Expires: 24 June 2021
+Expires: 25 June 2021
 
 
              Hypertext Transfer Protocol Version 2 (HTTP/2)
@@ -51,7 +51,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 24 June 2021.
+   This Internet-Draft will expire on 25 June 2021.
 
 Copyright Notice
 
@@ -1418,7 +1418,7 @@ Table of Contents
 
 6.3.  PRIORITY
 
-   The PRIORITY frame (type=0x2) is deprecated; see Section 5.3.2 A
+   The PRIORITY frame (type=0x2) is deprecated; see Section 5.3.2.  A
    PRIORITY frame can be sent in any stream state, including idle or
    closed streams.
 
